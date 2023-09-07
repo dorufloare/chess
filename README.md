@@ -4,6 +4,8 @@
 
 This is a simple chess application built using the Qt framework. It includes a basic chess engine that allows you to play against a simple bot. The application provides a user-friendly interface for playing chess and testing your strategic skills.
 
+Sorry for the spaghetti code, its an old project
+
 ## Features
 
 - Interactive chessboard 
