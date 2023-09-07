@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/resources"/>
+    <qresource prefix="/C:\Users\Doru\info\QT\Chess\img"/>
+    <qresource prefix="/">
+        <file>old_pieces/0.png</file>
+        <file>old_pieces/1.png</file>
+        <file>old_pieces/2.png</file>
+        <file>old_pieces/3.png</file>
+        <file>old_pieces/4.png</file>
+        <file>old_pieces/5.png</file>
+        <file>old_pieces/6.png</file>
+        <file>old_pieces/7.png</file>
+        <file>old_pieces/8.png</file>
+        <file>old_pieces/9.png</file>
+        <file>old_pieces/10.png</file>
+        <file>old_pieces/11.png</file>
+        <file>old_pieces/12.png</file>
+    </qresource>
+</RCC>
