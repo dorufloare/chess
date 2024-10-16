@@ -96,8 +96,8 @@ private:
     bool WKingMoved = false;
     bool BKingMoved = false;
 
-    const QString LIGHT_SQUARE = "background-color: white; border: 0px solid black";
-    const QString DARK_SQUARE = "background-color: #2fad3d; border: 0px solid black";
+    const QString LIGHT_SQUARE = "background-color: #EADDCA; border: 0px solid black";
+    const QString DARK_SQUARE = "background-color: 	#988558; border: 0px solid black";
     const QString H_LIGHT_SQUARE  = "background-color: #ed3939; border: 0px solid black";;
     const QString H_DARK_SQUARE = "background-color: #f02222; border: 0px solid black";;
 };
